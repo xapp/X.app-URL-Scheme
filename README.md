@@ -14,6 +14,7 @@ X.app supports `x://`, `xxx://`, `xapp://` and `app.x.App://` URL Schemes.
 
 ## `XAPP` URL Scheme:
 `xapp://`
+
 `xapp://?videoURL=`
 
 
