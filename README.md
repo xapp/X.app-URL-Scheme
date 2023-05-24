@@ -1,4 +1,4 @@
-# X-URL-Scheme
+# X URL Scheme
 
 X.app supports `x://`, `xxx://`, `xapp://` and `app.x.App://` URL Schemes.
 
