@@ -13,18 +13,19 @@ X.app supports `x://`, `xapp://`, `x.app://`, `app.x.App://` and `xxx://` URL Sc
 
 `xapp://?videoURL=`
 
+Path and Options parameters are identical to `x://`
+
 
 ## `X.APP` URL Schemes:
 `x.app://`
 
-`x.app://?videoURL=`
-
+Path and Options parameters are identical to `x://`
 
 
 ## `app.x.App` URL Scheme:
-`app.x.App://`
-This URL scheme is identical to bundleIdentifier of X.app
+`app.x.App://` – URL scheme is equal to BundleID of X.app.
+
 
 ## `XXX` URL Scheme:
-`xxx://`
+`xxx://` – Backup URL scheme.
 
