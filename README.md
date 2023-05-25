@@ -13,13 +13,13 @@ X.app supports `x://`, `xapp://`, `x.app://`, `app.x.App://` and `xxx://` URL Sc
 
 `xapp://?videoURL=`
 
-Path and Options parameters are identical to `x://`
+Path and Option parameters are identical to `x://` URL Scheme
 
 
 ## `X.APP` URL Schemes:
 `x.app://`
 
-Path and Options parameters are identical to `x://`
+Path and Option parameters are identical to `x://` URL Scheme
 
 
 ## `app.x.App` URL Scheme:
