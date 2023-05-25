@@ -23,9 +23,13 @@ Path and Option parameters are identical to `x://` URL Scheme
 
 
 ## `app.x.App` URL Scheme:
-`app.x.App://` – URL scheme is equal to BundleID of X.app.
+`app.x.App://`
+
+URL scheme is equal to BundleID of X.app.
 
 
 ## `XXX` URL Scheme:
-`xxx://` – Backup URL scheme.
+`xxx://`
+
+Backup URL scheme.
 
